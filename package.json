@@ -1,0 +1,27 @@
+{
+	"name": "testing-practice",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"test": "jest",
+		"test-watch": "jest --watchAll"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/madany01/testing-practice.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/madany01/testing-practice/issues"
+	},
+	"homepage": "https://github.com/madany01/testing-practice#readme",
+	"devDependencies": {
+		"@types/jest": "^27.4.0",
+		"eslint": "^8.9.0",
+		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.25.4",
+		"jest": "^27.5.1"
+	}
+}
