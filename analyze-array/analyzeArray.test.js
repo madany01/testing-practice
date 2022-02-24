@@ -1,5 +1,4 @@
-/* eslint-disable no-undef */
-const analyze = require('./analyzeArray')
+import analyze from './analyzeArray'
 
 describe('analyzeArray', () => {
 	it('works when happy path', () => {

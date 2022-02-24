@@ -13,4 +13,4 @@ function analyze(array = []) {
 	}
 }
 
-module.exports = analyze
+export default analyze
